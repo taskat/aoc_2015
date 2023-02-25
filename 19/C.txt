@@ -1,0 +1,65 @@
+C
+    (Si
+        (CaPTiMgYCaPTi
+            (F)
+        SiThF)
+    CaSiThSiThPBCaCaSi
+        (Si
+            (TiTiMg)
+        PBCaPMgYPTi
+            (F)
+        F)
+    CaSi
+        (BPMg)
+    P
+        (CaPTi
+            (F)
+        CaSiThCaCaF)
+    PBCaCaPTiTi
+        (F)
+    CaSi
+        (SiAlYSiTh
+            (F)
+        )
+    CaSi
+        (BF)
+    CaCaSi
+        (SiThCaCaCaFYCaPTiBCaSiThCaSiThPMg)
+    Si
+        (CaPBFYCaCaF)
+    CaCaCaCaSiThCaSi
+        (P
+            (F)
+        PBSiThP
+            (F)
+        Si
+            (Mg)
+        CaFYF)
+    CaSi
+        (SiAl)
+    TiTiTiTiTiTiTi
+        (PMg)
+    PTiTiTiBSi
+        (SiAl)
+    TiTi
+        (PMg)
+    CaFYBPBPTi
+        (Si
+            (Mg)
+        SiThCaF)
+    CaSiThF)
+P
+    (F)
+CaSi
+    (TiBSiThSi
+        (SiAlYCaF)
+    P
+        (F)
+    SiThCaF)
+CaCaSiThCaCaCaSi
+    (P
+        (CaF)
+    FYPMg)
+CaPBCaPBSi
+    (FYPBCaF)
+CaSiAl

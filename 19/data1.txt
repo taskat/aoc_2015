@@ -1,0 +1,8 @@
+Ca => PRnFAr
+Ca => PRnFFAr
+F => CaF
+F => FF
+F => FFF
+e => HF
+
+HPRnFArFFF
